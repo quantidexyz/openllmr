@@ -1,5 +1,5 @@
 ---
-version: 1.0.1
+version: 1.6.39-registry.7
 os: [osx, linux]
 name: Claude Code
 description: Point Claude Code at OpenLLM — sets ANTHROPIC_BASE_URL + maps Opus/Sonnet/Haiku to ultra/plus/lite.

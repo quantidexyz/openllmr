@@ -1,5 +1,5 @@
 ---
-version: 1.0.1
+version: 1.6.39-registry.7
 os: [osx, linux]
 name: openllm
 description: The OpenLLM extension — one MCP server (via the openllmc CLI) exposing the full native gateway API, semantic code/docs search, and persistent memory, plus five background hooks and an always-loaded guidance block in ~/.claude/CLAUDE.md.
