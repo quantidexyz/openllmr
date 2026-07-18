@@ -1,5 +1,5 @@
 ---
-version: 1.0.1
+version: 1.0.0
 name: Raycast
 description: Point Raycast AI at OpenLLM — adds an `openllm` custom provider to Raycast's providers.yaml with every activated model.
 icon: raycast

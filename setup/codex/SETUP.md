@@ -1,5 +1,5 @@
 ---
-version: 1.1.2
+version: 1.0.0
 name: Codex
 description: Point the Codex CLI at OpenLLM — adds an `openllm` model_provider to ~/.codex/config.toml and selects it.
 icon: terminal
