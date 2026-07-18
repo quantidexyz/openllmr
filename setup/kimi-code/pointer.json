@@ -1,5 +1,5 @@
 {
   "version": 1,
-  "script_url": "https://raw.githubusercontent.com/openllmsh/registry/4a71ffb3486c3d2165323ea045c3190bb251c4a1/setup/kimi-code/install.sh",
-  "script_sha256": "ad5dd2dc186ce93afc042495d0b924c003a00aa38b82a3f38292489ae5251ca4"
+  "script_url": "https://raw.githubusercontent.com/openllmsh/registry/f21635ecd5b5a8c8d68f4301cb84d4c307eb339e/setup/kimi-code/install.sh",
+  "script_sha256": "396a41e60de26e9d7fa0a378851d73177737618463da5d24a74b8a3f71d04553"
 }
