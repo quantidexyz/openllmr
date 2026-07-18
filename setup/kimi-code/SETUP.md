@@ -1,5 +1,6 @@
 ---
-version: 1.1.2
+version: 1.6.39
+os: [osx, linux]
 name: Kimi CLI
 description: Point the Kimi CLI at OpenLLM — adds an `openllm` provider to ~/.kimi-code/config.toml and selects it.
 icon: terminal
