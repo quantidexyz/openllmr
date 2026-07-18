@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "script_url": "https://raw.githubusercontent.com/openllmsh/registry/feb8c0185100e6cdf8dca252f9a8696b70cb0da2/setup/cli/install.sh",
+  "script_sha256": "b9b610c70abe6aae3091973f593b8b51d5342b4423fa8bbfada138c6cca2a6b6"
+}
