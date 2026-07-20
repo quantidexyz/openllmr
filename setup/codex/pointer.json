@@ -1,5 +1,5 @@
 {
   "version": 1,
-  "script_url": "https://raw.githubusercontent.com/openllmsh/registry/a673b1a9187f2902782b54859530d424c93b8555/setup/codex/install.sh",
-  "script_sha256": "336cb91efe27229a8cc3480117b3ba4cb7396c61ee9a993f70e1aad20dde4664"
+  "script_url": "https://raw.githubusercontent.com/openllmsh/registry/c0ee5d0bbee5c76921e990e717fe9cdab822cae5/setup/codex/install.sh",
+  "script_sha256": "1245121b886a9b6632ac87f661347db093b5e9bad28f3705e052ae39c6761b5e"
 }
