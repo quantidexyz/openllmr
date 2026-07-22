@@ -1,5 +1,5 @@
 {
   "version": 1,
-  "script_url": "https://raw.githubusercontent.com/openllmsh/registry/4c07c9c18f6593adf1680b3574509a47f7d79340/setup/daemon/install.sh",
-  "script_sha256": "8eb0f76550f5f12321686b8cfc96a2b8d9054d5abc9e27633c2ae004fd2ea3ba"
+  "script_url": "https://raw.githubusercontent.com/openllmsh/registry/bb4646534474c3140c6db2e871a64355c10458a5/setup/daemon/install.sh",
+  "script_sha256": "d404a97e1df0b4bb559bddfe33fc621b151605c48b5f399c145a7da89ad9f202"
 }
